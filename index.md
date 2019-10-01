@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/twaters/OutflowsFromInflows/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-<video src="Ro8g53fbcs_delta1e-2v2.mp4" width="320" height="200" controls preload></video>
+<video src="Ro8g53fbcs_delta1e-2v2.mp4" width="640" height="400" controls preload></video>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
