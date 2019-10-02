@@ -29,5 +29,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Acknowledgements
+These simulations were run on the Instituional Computing clusters at Los Alamos National Laboratory under allocation award w19_rhdccasims (PI: T. Waters).  We thank the [high performance computing team](https://www.lanl.gov/org/ddste/aldsc/hpc/index.php) for their continued effors, as well as the developers of [Athena++](https://github.com/PrincetonUniversity/athena-public-version/graphs/contributors).  
