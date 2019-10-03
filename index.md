@@ -8,17 +8,28 @@ The initial conditions for all of these runs is the analytic Bondi solution.
 
 ### Constant entropy BC runs
 
-<video src="A2_movie.mp4" width="650" height="1350" controls preload></video>
-
-<video src="A3_movie.mp4" width="650" height="1350" controls preload></video>
-
-<video src="A4_movie.mp4" width="650" height="1350" controls preload></video>
+<video poster="poster.png" width="650" height="1350" controls preload> 
+    <source src="A2_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="A2_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
+<video poster="poster.png" width="650" height="1350" controls preload> 
+    <source src="A3_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="A3_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
+<video poster="poster.png" width="650" height="1350" controls preload> 
+    <source src="A4_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="A4_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
 
 ### Constant pressure BC runs
-
-<video src="B2_movie.mp4" width="650" height="1350" controls preload></video>
-
-<video src="B3_movie.mp4" width="650" height="1350" controls preload></video>
+<video poster="poster.png" width="650" height="1350" controls preload> 
+    <source src="B2_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="B2_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
+<video poster="poster.png" width="650" height="1350" controls preload> 
+    <source src="B3_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="B3_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
 
 ### Acknowledgements
 These simulations were run on the Instituional Computing clusters at Los Alamos National Laboratory under allocation award w19_rhdccasims (PI: T. Waters).  We thank the [high performance computing team](https://www.lanl.gov/org/ddste/aldsc/hpc/index.php) for their continued effors, as well as the developers of the public GRMHD code [Athena++](https://github.com/PrincetonUniversity/athena-public-version/graphs/contributors).  
