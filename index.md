@@ -6,6 +6,8 @@ The animations below are part of [this paper](https://arxiv.org), which has been
 
 The middle panels in the animations below show colormaps of pressure (in units of `p_0`, the reference pressure at the outer boundary) on a linear scale over the full domain.  The bottom panels zoom into the region within the Bondi radius and show instead log-scale plots of the azimuthal component of angular momentum in units of `R_s c`.  
 
+The initial conditions for all of these runs is the analytic Bondi solution.  
+
 ### Constant entropy BC runs
 
 <video src="A2_movie.mp4" width="640" height="400" controls preload></video>
