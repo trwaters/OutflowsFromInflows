@@ -4,7 +4,7 @@ The animations below are part of [this paper](https://arxiv.org), which has been
 
 The middle panels in the animations below show colormaps of pressure (in units of `p_0`, the reference pressure at the outer boundary) on a linear scale over the full domain.  The bottom panels zoom into the region within the Bondi radius and show instead log-scale plots of the azimuthal component of angular momentum in units of `R_s c`.  This region looks nearly identical to the spherically symmetric Bondi solution when looking at density, radial velocity, or pressure; the sonic surface is unchanged and appears in the bottom left corner as a black contour.  
 
-The initial conditions for all of these runs is the analytic Bondi solution.  Time is shown in the upper right corner of each plot in units of the dynamical time `R_B/c_s(R_o)'.
+The initial conditions for all of these runs is the analytic Bondi solution.  Time is shown in the upper right corner of each plot in units of the dynamical time `R_B/c_s(R_o)`.
 
 ### Constant entropy BC runs
 
