@@ -12,6 +12,8 @@ The initial conditions for all of these runs is the analytic Bondi solution.
 
 <video src="A3_movie.mp4" width="650" height="1350" controls preload></video>
 
+<video src="A4_movie.mp4" width="650" height="1350" controls preload></video>
+
 ### Constant pressure BC runs
 
 <video src="B2_movie.mp4" width="650" height="1350" controls preload></video>
