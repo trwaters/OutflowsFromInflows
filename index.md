@@ -8,25 +8,25 @@ The initial conditions for all of these runs is the analytic Bondi solution.  Ti
 
 ### Constant entropy BC runs
 
-<video poster="poster.png" width="650" height="1250" controls preload> 
+<video poster="poster.png" width="650" height="1200" controls preload> 
     <source src="A2_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="A2_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
-<video poster="poster.png" width="650" height="1250" controls preload> 
+<video poster="poster.png" width="650" height="1200" controls preload> 
     <source src="A3_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="A3_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
-<video poster="poster.png" width="650" height="1250" controls preload> 
+<video poster="poster.png" width="650" height="1200" controls preload> 
     <source src="A4_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="A4_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
 ### Constant pressure BC runs
-<video poster="poster.png" width="650" height="1250" controls preload> 
+<video poster="poster.png" width="650" height="1200" controls preload> 
     <source src="B2_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="B2_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
-<video poster="poster.png" width="650" height="1250" controls preload> 
+<video poster="poster.png" width="650" height="1200" controls preload> 
     <source src="B3_movie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="B3_movie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
