@@ -1,6 +1,7 @@
 ## Simulations from Waters et al. (2019)
 
-The animations below are part of [this paper](https://arxiv.org/abs/1910.01106), which has been submitted for publication to MNRAS Letters.
+The animations below are part of [this paper](https://arxiv.org/abs/1910.01106), which has been published in MNRAS Letters
+[here](https://academic.oup.com/mnrasl/article-abstract/491/1/L76/5612191?redirectedFrom=fulltext).
 
 The top panels show the inflow (blue lines) and outflow (red lines) rates as a function of radius.  The difference between these curves is the net accretion rate, shown as dashed black lines; it shows barely noticeable fluctuations away from the Bondi rate as the simulation evolves.   
 
